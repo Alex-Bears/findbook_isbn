@@ -3,7 +3,6 @@ import pprint
 
 pp = pprint.PrettyPrinter(indent=4, sort_dicts=True)
 
-
 def find_book(isbn_text):
     """
     Find book from isbn catalog
